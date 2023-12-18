@@ -5,6 +5,7 @@ body {
 }
 
 article {
+    font-weight: 600;
   margin: 5rem 0;
   width: 90%;
   background-color: #ffffff9d;
