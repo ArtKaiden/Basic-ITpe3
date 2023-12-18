@@ -10,6 +10,15 @@ article {
     background-color: #ffffff9d;
 }
 
+
+details:hover {
+    cursor: grab;
+}
+
+details:active {
+    cursor: grabbing;
+}
+
 .table-of-contents {
     font-size: 14px;
     display: grid;
